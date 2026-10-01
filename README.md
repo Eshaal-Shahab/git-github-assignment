@@ -11,3 +11,6 @@ branches, and GitHub.
 - Branches
 - Remote repositories
 - GitHub
+
+## Documentation
+This section was created on the feature-documentation branch.
